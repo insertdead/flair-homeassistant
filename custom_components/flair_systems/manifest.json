@@ -1,0 +1,17 @@
+{
+  "domain": "flair_systems",
+  "name": "Flair",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/flair_systems",
+  "requirements": [
+    "flair-client==1.0.0"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@insertdead"
+  ],
+  "iot_class": "cloud_polling"
+}
